@@ -1,10 +1,10 @@
 {
   "name": "remote-control-bot",
   "version": "3.0.0",
-  "description": "Professional Remote Control Bot for Android Devices",
+  "description": "Professional Remote Control Bot for Android Devices - Optimized for Render.com",
   "main": "server.js",
   "engines": {
-    "node": ">=16.13.2"
+    "node": ">=18.0.0"
   },
   "scripts": {
     "start": "node server.js",
@@ -13,7 +13,8 @@
   "keywords": [
     "telegram-bot",
     "remote-control",
-    "android"
+    "android",
+    "render"
   ],
   "author": "ميدو مشاكل",
   "license": "MIT",
